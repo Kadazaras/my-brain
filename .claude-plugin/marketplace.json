@@ -1,0 +1,11 @@
+{
+  "name": "my-brain",
+  "owner": { "name": "alberto" },
+  "plugins": [
+    {
+      "name": "my-brain",
+      "source": "./plugins/my-brain",
+      "description": "Shared second brain: org CLAUDE.md + skills"
+    }
+  ]
+}
